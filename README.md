@@ -1,1 +1,1 @@
-#SHOES STREETWEAR: Projeto eCommerce para Faculdade
+# SHOES STREETWEAR: Projeto de E-commerce
